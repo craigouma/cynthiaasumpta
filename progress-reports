@@ -52,7 +52,7 @@
 
 	</head>
   
-    <body class="page page-template-default default-dark-logo pswp-light-skin responsive-ux page-template-masonry-body page-template-intro-above-list-body navi-hide dark-logo header-sticky preload">
+    <body class="page page-template-default default-dark-logo pswp-light-skin responsive-ux page-template-masonry-body page-template-intro-above-list-body navi-hide show-top-space page_from_top dark-logo header-sticky preload">
       
         <!--Page Loader-->
         <div class="page-loading fullscreen-wrap visible">
@@ -120,11 +120,11 @@
                             <div id="navi-wrap" class="menu-navi-wrap">
 
                                 <ul class="menu clearfix">
-                                    <li class="menu-item current-menu-item current_page_item"><a href="progress-reports.html">Progress Reports</a></li>
-                                    <li id="menu-item-246" class="menu-item"><a href="stories-of-change.html">Stories of Change</a></li>
-                                    <li id="menu-item-256" class="menu-item"><a href="photos.html">Field Photos</a></li>
-                                    <li id="menu-item-256" class="menu-item"><a href="newsletters.html">Newsletters</a></li>
-                                    <li id="menu-item-247" class="menu-item"><a href="appraisals.html">Appraisals & Testimonials</a></li>
+                                    <li class="menu-item current-menu-item current_page_item"><a href="https://cynthiaasumpta.vercel.app/progress-reports/">Progress Reports</a></li>
+                                    <li id="menu-item-246" class="menu-item"><a href="https://cynthiaasumpta.vercel.app/stories-of-change/">Stories of Change</a></li>
+                                    <li id="menu-item-256" class="menu-item"><a href="https://cynthiaasumpta.vercel.app/photos/">Field Photos</a></li>
+                                    <li id="menu-item-256" class="menu-item"><a href="https://cynthiaasumpta.vercel.app/newsletters/">Newsletters</a></li>
+                                    <li id="menu-item-247" class="menu-item"><a href="https://cynthiaasumpta.vercel.app/appraisals/">Appraisals & Testimonials</a></li>
                                 </ul>
 
                             </div>
@@ -153,123 +153,96 @@
     			
                 <!-- Main Content Wrap -->
         		<div id="wrap">
-                    
+
                     <!-- Main Content : List, text content ... -->
         	        <div id="content">
 
                         <div class="content_wrap_outer fullwrap-layout">
                     
-                            <div id="content_wrap" class="">
-
-                                <section class="ux-portfolio-template-intro container ux-template-intro-left">
-                                    <br>
-                                    <br>
-                                    <h1 style="text-align: center;">Stories of Change</h1>
-                                    <p style="text-align: center;"><p class="clearfix ux_blank"></p></p>
-                                    <p style="text-align: center;">
-                                        One of the most rewarding parts of my job is creating Stories of Change. These are personal narratives that showcase the real impact of our work on individuals and communities. They bring the data to life and show the human side of our efforts.
-                                    </p>
-                                </section>
-                            </div>    
-                        </div>   
-
-                        <div class="content_wrap_outer fullwrap-layout">
-                    
                                 <div id="content_wrap" class="">
+<br>
+<br>
+                                    <section class="ux-portfolio-template-intro container ux-template-intro-left">
+                                        <h1 style="text-align: center;">Program Progress Reports</h1>
+                                        <p style="text-align: center;"><p class="clearfix ux_blank"></p></p>
+                                        <p style="text-align: center;">
+                                            I've put together comprehensive program progress reports that tell the story of our projects' achievements and challenges. These reports are crafted to meet donor requirements and give a clear picture of how our initiatives are making a difference.</p>
+                                    </section>
 
-                                    <div class="container-masonry ux-portfolio-3col filter-right ux-portfolio-spacing-none" data-col="3" data-spacer="0" data-template="intro-above">
+                                    <div class="container-masonry ux-portfolio-spacing-40 ux-portfolio-2col  ux-has-filter filter-center" data-col="2" data-spacer="40" data-template="intro-above">
 
-                                        <div class="masonry-list grid-list grid-mask-filled-left">
+                                        <div class="masonry-list masonry-grid grid-mask-filled-left" >
             
-                                            <section class="grid-item filter_branding filter_featured filter_illustration filter_works filter_post-format-gallery" data-postid="170">
-                                                
+                                            <section class="grid-item grid-item-small filter_branding filter_featured filter_illustration filter_works filter_post-format-gallery" data-postid="170">
+
                                                 <div class="grid-item-inside" >
                                                     <div class="grid-item-con">
-                                                        <a href="doc\Annex 1 - Humanitarian Stories Q1 FY 2023.pdf" target="_blank" title="Annex 1 - Humanitarian Stories Q1 FY 2023" class="grid-item-mask-link grid-item-open-url"></a>
+                                                        <a href="doc\72DFFP19CA00003 _USAID Nawiri FY24 Q3 Report_Mercy Corps.pdf" target="_blank" title="USAID Nawiri FY24 Q3 Report Mercy Corps" class="grid-item-mask-link grid-item-open-url"></a>
                                                 
                                                         <div class="grid-item-con-text">
-                                                            <h2 class="grid-item-tit"><a href="doc\Annex 1 - Humanitarian Stories Q1 FY 2023.pdf" target="_blank" title="Annex 1 - Humanitarian Stories Q1 FY 2023" class="grid-item-tit-a">Annex 1 - Humanitarian Stories Q1 FY 2023</a></h2>
+                                                            <h2 class="grid-item-tit"><a href="doc\72DFFP19CA00003 _USAID Nawiri FY24 Q3 Report_Mercy Corps.pdf" target="_blank" title="USAID Nawiri FY24 Q3 Report Mercy Corps" class="grid-item-tit-a">USAID Nawiri FY24 Q3 Report Mercy Corps</a></h2>
                                                         </div>
                                                     </div>
                     
                                                     <div class="brick-content ux-lazyload-wrap" style=" padding-top: 75.384615384615%;">
-                                                        <div class="ux-lazyload-bgimg ux-background-img" data-bg="https://cynthiaasumpta.vercel.app/img/Annex.png"></div>
+                                                        <div class="ux-lazyload-bgimg ux-background-img" data-bg="https://cynthiaasumpta.vercel.app/img/Annex6.png"></div>
                                                     </div>
                                 
                                                 </div><!--End inside-->
 
                                             </section> 
             
-                                            <section class="grid-item filter_branding filter_featured filter_illustration filter_works filter_post-format-gallery" data-postid="170">
-                                                
+                                            <section class="grid-item grid-item-small filter_branding filter_featured filter_illustration filter_works filter_post-format-gallery" data-postid="170">
+
                                                 <div class="grid-item-inside" >
                                                     <div class="grid-item-con">
-                                                        <a href="doc\Annex 1 - Nawiri FY24 Q1 Humanitarian Stories.pdf" target="_blank" title="Annex 1 - Nawiri FY24 Q1 Humanitarian Stories" class="grid-item-mask-link grid-item-open-url"></a>
+                                                        <a href="doc\72DFFP19CA00003_USAID Nawiri_ Q1 FY24  Report.pdf" target="_blank" title="USAID Nawiri FY24 Q1 Report Mercy Corps" class="grid-item-mask-link grid-item-open-url"></a>
                                                 
                                                         <div class="grid-item-con-text">
-                                                            <h2 class="grid-item-tit"><a href="doc\Annex 1 - Nawiri FY24 Q1 Humanitarian Stories.pdf" target="_blank" title="Annex 1 - Nawiri FY24 Q1 Humanitarian Stories" class="grid-item-tit-a">Annex 1 - Nawiri FY24 Q1 Humanitarian Stories</a></h2>
+                                                            <h2 class="grid-item-tit"><a href="doc\72DFFP19CA00003_USAID Nawiri_ Q1 FY24  Report.pdf" target="_blank" title="USAID Nawiri FY24 Q1 Report Mercy Corps" class="grid-item-tit-a">USAID Nawiri FY24 Q1 Report Mercy Corps</a></h2>
                                                         </div>
                                                     </div>
                     
                                                     <div class="brick-content ux-lazyload-wrap" style=" padding-top: 75.384615384615%;">
-                                                        <div class="ux-lazyload-bgimg ux-background-img" data-bg="https://cynthiaasumpta.vercel.app/img/Annex2.png"></div>
+                                                        <div class="ux-lazyload-bgimg ux-background-img" data-bg="https://cynthiaasumpta.vercel.app/img/Annex7.png"></div>
                                                     </div>
                                 
                                                 </div><!--End inside-->
 
                                             </section> 
             
-                                            <section class="grid-item filter_branding filter_featured filter_illustration filter_works filter_post-format-gallery" data-postid="170">
-                                                
+                                            <section class="grid-item grid-item-small filter_branding filter_featured filter_illustration filter_works filter_post-format-gallery" data-postid="170">
+
                                                 <div class="grid-item-inside" >
                                                     <div class="grid-item-con">
-                                                        <a href="doc\Annex 1- Nawiri FY24 Q3 Humanitarian Stories.pdf" target="_blank" title="Annex 1- Nawiri FY24 Q3 Humanitarian Stories" class="grid-item-mask-link grid-item-open-url"></a>
+                                                        <a href="doc\72DFFP19CA00003_USAID Nawiri_FY24 Q2 Report_ MC.pdf" target="_blank" title="USAID Nawiri FY24 Q2 Report Mercy Corps" class="grid-item-mask-link grid-item-open-url"></a>
                                                 
                                                         <div class="grid-item-con-text">
-                                                            <h2 class="grid-item-tit"><a href="doc\Annex 1- Nawiri FY24 Q3 Humanitarian Stories.pdf" target="_blank" title="Annex 1- Nawiri FY24 Q3 Humanitarian Stories" class="grid-item-tit-a">Annex 1- Nawiri FY24 Q3 Humanitarian Stories</a></h2>
+                                                            <h2 class="grid-item-tit"><a href="doc\72DFFP19CA00003_USAID Nawiri_FY24 Q2 Report_ MC.pdf" target="_blank" title="USAID Nawiri FY24 Q2 Report Mercy Corps" class="grid-item-tit-a">USAID Nawiri FY24 Q2 Report Mercy Corps</a></h2>
                                                         </div>
                                                     </div>
                     
                                                     <div class="brick-content ux-lazyload-wrap" style=" padding-top: 75.384615384615%;">
-                                                        <div class="ux-lazyload-bgimg ux-background-img" data-bg="https://cynthiaasumpta.vercel.app/img/Annex3.png"></div>
+                                                        <div class="ux-lazyload-bgimg ux-background-img" data-bg="https://cynthiaasumpta.vercel.app/img/Annex8.png"></div>
                                                     </div>
                                 
                                                 </div><!--End inside-->
 
                                             </section> 
             
-                                            <section class="grid-item filter_branding filter_featured filter_illustration filter_works filter_post-format-gallery" data-postid="170">
-                                                
-                                                <div class="grid-item-inside" >
-                                                    <div class="grid-item-con">
-                                                        <a href="doc\Madam Jennifer Mission to Empower GIRL-H Groups in Turkana South to Tackle Malnutrition.pdf" target="_blank" title="Madam Jennifer Mission to Empower GIRL-H Groups in Turkana South to Tackle Malnutrition" class="grid-item-mask-link grid-item-open-url"></a>
-                                                
-                                                        <div class="grid-item-con-text">
-                                                            <h2 class="grid-item-tit"><a href="doc\Madam Jennifer Mission to Empower GIRL-H Groups in Turkana South to Tackle Malnutrition.pdf" target="_blank" title="Madam Jennifer Mission to Empower GIRL-H Groups in Turkana South to Tackle Malnutrition" class="grid-item-tit-a">Madam Jennifer Mission to Empower GIRL-H Groups in Turkana South to Tackle Malnutrition</a></h2>
-                                                        </div>
-                                                    </div>
-                    
-                                                    <div class="brick-content ux-lazyload-wrap" style=" padding-top: 75.384615384615%;">
-                                                        <div class="ux-lazyload-bgimg ux-background-img" data-bg="https://cynthiaasumpta.vercel.app/img/Annex4.png"></div>
-                                                    </div>
-                                
-                                                </div><!--End inside-->
+                                            <section class="grid-item grid-item-small filter_branding filter_featured filter_illustration filter_works filter_post-format-gallery" data-postid="170">
 
-                                            </section> 
-            
-                                            <section class="grid-item filter_branding filter_featured filter_illustration filter_works filter_post-format-gallery" data-postid="170">
-                                                
                                                 <div class="grid-item-inside" >
                                                     <div class="grid-item-con">
-                                                        <a href="doc\STAKEHOLDER EFFORTS IN ENHANCING REFERRAL IN KAKAMEGA AMID COVID 19 PANDEMIC.pdf" target="_blank" title="STAKEHOLDER EFFORTS IN ENHANCING REFERRAL IN KAKAMEGA AMID COVID 19 PANDEMIC"></a>
+                                                        <a href="doc\Mercy Corps USAID Nawiri Annual Report Lo-Res.pdf" target="_blank" title="Mercy Corps USAID Nawiri Annual Report" class="grid-item-mask-link grid-item-open-url"></a>
                                                 
                                                         <div class="grid-item-con-text">
-                                                            <h2 class="grid-item-tit"><a href="doc\STAKEHOLDER EFFORTS IN ENHANCING REFERRAL IN KAKAMEGA AMID COVID 19 PANDEMIC.pdf" target="_blank" title="STAKEHOLDER EFFORTS IN ENHANCING REFERRAL IN KAKAMEGA AMID COVID 19 PANDEMIC" class="grid-item-tit-a">Stakeholder Efforts in Enhancing Referral in Kakamega amid COVID-19 Pandemic</a></h2>
+                                                            <h2 class="grid-item-tit"><a href="doc\Mercy Corps USAID Nawiri Annual Report Lo-Res.pdf" target="_blank" title="Mercy Corps USAID Nawiri Annual Report" class="grid-item-tit-a">Mercy Corps USAID Nawiri Annual Report</a></h2>
                                                         </div>
                                                     </div>
                     
                                                     <div class="brick-content ux-lazyload-wrap" style=" padding-top: 75.384615384615%;">
-                                                        <div class="ux-lazyload-bgimg ux-background-img" data-bg="https://cynthiaasumpta.vercel.app/img/Annex5.png"></div>
+                                                        <div class="ux-lazyload-bgimg ux-background-img" data-bg="https://cynthiaasumpta.vercel.app/img/Annex9.png"></div>
                                                     </div>
                                 
                                                 </div><!--End inside-->

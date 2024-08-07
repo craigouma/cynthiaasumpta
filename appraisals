@@ -36,23 +36,23 @@
 
         <!-- Air. Theme Main CSS -->
         <link rel='stylesheet' href='css/style.css' type='text/css' media='screen' />
-    	
+        
         <!-- IE hack -->
         <!--[if lte IE 9]>
-    	<link rel='stylesheet' id='cssie9'  href='css/ie.css' type='text/css' media='screen' />
-    	<![endif]-->
+        <link rel='stylesheet' id='cssie9'  href='css/ie.css' type='text/css' media='screen' />
+        <![endif]-->
 
-    	<!--[if lte IE 9]>
-    	<script type="text/javascript" src="js/ie.js"></script>
-    	<![endif]-->
-    	
-    	<!--[if lte IE 8]>
-    	<div style="width: 100%;" class="messagebox_orange">Your browser is obsolete and does not support this webpage. Please use newer version of your browser or visit <a href="http://www.ie6countdown.com/" target="_new">Internet Explorer 6 countdown page</a>  for more information. </div>
-    	<![endif]-->
+        <!--[if lte IE 9]>
+        <script type="text/javascript" src="js/ie.js"></script>
+        <![endif]-->
+        
+        <!--[if lte IE 8]>
+        <div style="width: 100%;" class="messagebox_orange">Your browser is obsolete and does not support this webpage. Please use newer version of your browser or visit <a href="http://www.ie6countdown.com/" target="_new">Internet Explorer 6 countdown page</a>  for more information. </div>
+        <![endif]-->
 
-	</head>
+    </head>
   
-    <body class="page page-template-default default-dark-logo pswp-light-skin responsive-ux page-template-masonry-body page-template-intro-above-list-body navi-hide dark-logo header-sticky preload">
+    <body class="single single-post single-format-gallery default-dark-logo pswp-light-skin responsive-ux navi-hide page_from_top non_bg_header dark-logo single-portfolio-fullwidth header-sticky gallery-show-social-share-body preload">
       
         <!--Page Loader-->
         <div class="page-loading fullscreen-wrap visible">
@@ -68,7 +68,6 @@
 
         <!--Main wrap-->
         <div class="wrap-all">
-
             <div id="wrap-outer">
 
                 <!--Header-->
@@ -120,11 +119,11 @@
                             <div id="navi-wrap" class="menu-navi-wrap">
 
                                 <ul class="menu clearfix">
-                                    <li class="menu-item current-menu-item current_page_item"><a href="progress-reports.html">Progress Reports</a></li>
-                                    <li id="menu-item-246" class="menu-item"><a href="stories-of-change.html">Stories of Change</a></li>
-                                    <li id="menu-item-256" class="menu-item"><a href="photos.html">Field Photos</a></li>
-                                    <li id="menu-item-256" class="menu-item"><a href="newsletters.html">Newsletters</a></li>
-                                    <li id="menu-item-247" class="menu-item"><a href="appraisals.html">Appraisals & Testimonials</a></li>
+                                    <li class="menu-item current-menu-item current_page_item"><a href="https://cynthiaasumpta.vercel.app/progress-reports/">Progress Reports</a></li>
+                                    <li id="menu-item-246" class="menu-item"><a href="https://cynthiaasumpta.vercel.app/stories-of-change/">Stories of Change</a></li>
+                                    <li id="menu-item-256" class="menu-item"><a href="https://cynthiaasumpta.vercel.app/photos/">Field Photos</a></li>
+                                    <li id="menu-item-256" class="menu-item"><a href="https://cynthiaasumpta.vercel.app/newsletters/">Newsletters</a></li>
+                                    <li id="menu-item-247" class="menu-item"><a href="https://cynthiaasumpta.vercel.app/appraisals/">Appraisals & Testimonials</a></li>
                                 </ul>
 
                             </div>
@@ -144,10 +143,6 @@
 
                             </div>
 
-                            <div class="menu-panel-bottom-right col-md-9 col-sm-9 col-xs-9">
-
-                            </div>
-
                         </div>
 
                     </div>
@@ -156,67 +151,86 @@
 
     			
                 <!-- Main Content Wrap -->
-        		<div id="wrap">
+        		<div id="wrap"> 
 
                     <!-- Main Content : List, text content ... -->
-        	        <div id="content">
-
+        	        <div id="content">3
                         <div class="content_wrap_outer fullwrap-layout">
                     
                                 <div id="content_wrap" class="">
 
-                                    <section class="ux-portfolio-template-intro container ux-template-intro-left">
-                                        <h1 style="text-align: center;">Newsletters</h1>
-                                        <p style="text-align: center;"><p class="clearfix ux_blank"></p></p>
-                                        <p style="text-align: center;">
-                                            I’ve also led the development of newsletters that keep our stakeholders informed and engaged. These newsletters are packed with updates, success stories, and important announcements, helping us maintain strong and transparent communication.</p>
-                                    </section>
+                                    <div class="title-wrap container gallery-des-center">
+                                        <div class="title-wrap-con">
+                                            <h1 class="title-wrap-tit">Appraisals</h1>
+                                        </div>
+                                    </div>
 
-                                    <div class="container-masonry ux-portfolio-spacing-40 ux-portfolio-2col container" data-col="2" data-spacer="40" data-template="intro-above">
+                                    <div class="container gallery-post-des gallery-des-center">
+                                        
+                                        <!-- Content -->
+                                        <div class="entry">
+                                            <p>Included here are some appraisals and testimonials from donors and other key individuals who have praised the quality of my work. Their feedback is a testament to my commitment to excellence and the positive impact of my communication efforts.</p>
+                                        </div>
 
-                                        <div class="masonry-list masonry-grid grid-mask-boxed-center">
+                                    </div>
+
+                                    <article class="post type-post status-publish format-gallery has-post-thumbnail hentry category-branding category-featured category-illustration category-works post_format-post-format-gallery">
+
+                                        <div class="blog-unit-gallery-wrap start-from-gallery gallery-spacing-40">
+
+                                            <div class="single-gallery-wrap-inn" data-style="">
             
-                                            <section class="grid-item grid-item-small filter_branding filter_featured filter_illustration filter_works filter_post-format-gallery" data-postid="170">
-
-                                                <div class="grid-item-inside" >
-                                                    <div class="grid-item-con">
-                                                        <a href="doc\USAID Nawiri in the Counties January 2023 Newsletter.pdf" target="_blank" title="USAID Nawiri in the Counties January 2023 Newsletter" class="grid-item-mask-link grid-item-open-url"></a>
+                                                <div class="list-layout lightbox-photoswipe" data-gap="40">
                                                 
-                                                        <div class="grid-item-con-text">
-                                                            <h2 class="grid-item-tit"><a href="doc\USAID Nawiri in the Counties January 2023 Newsletter.pdf" target="_blank" title="USAID Nawiri in the Counties January 2023 Newsletter" class="grid-item-tit-a">USAID Nawiri in the Counties January 2023 Newsletter</a></h2>
-                                                        </div>
-                                                    </div>
-                    
-                                                    <div class="brick-content ux-lazyload-wrap" style=" padding-top: 75.384615384615%;">
-                                                        <div class="ux-lazyload-bgimg ux-background-img" data-bg="https://cynthiaasumpta.vercel.app/img/Annex12.png"></div>
-                                                    </div>
-                                
-                                                </div><!--End inside-->
+                                                    <div class="list-layout-col list-layout-col2 clearfix">
+                                                                                        
+                                                        <div class="list-layout-col2-item list-layout-item" style="">
+                                                            <div class="list-layout-inside">
+                                                                <div class="single-image mouse-over" data-lightbox="true">
+                                                                    <a title="" class="lightbox-item" href="img\Testimonial1.png" data-size="1429x588">
+                                                                        <span class="ux-lazyload-wrap" style=" padding-top: 70%;">
+                                                                            <img alt="Testimonials" title="Testimonials" src="img\Testimonial1.png" width="500" height="100" class="list-layout-img gallery-images-img ux-lazyload-img lazy">
+                                                                        </span>
+                                                                    </a>
+                                                                </div>
+                                                            </div><!--End list-layout-inside--> 
+                                                        </div><!--End list-layout-item-->
+        
+                                                        <div class="list-layout-col2-item list-layout-item" style="">
+                                                            <div class="list-layout-inside">
+                                                                <div class="single-image mouse-over" data-lightbox="true">
+                                                                    <a title="" class="lightbox-item" href="img\Testimonial2.png" data-size="1235x264">
+                                                                        <span class="ux-lazyload-wrap" style=" padding-top: 70%;">
+                                                                            <img alt="Testimonials" title="Testimonials" src="img\Testimonial2.png" width="500" height="100" class="list-layout-img gallery-images-img ux-lazyload-img lazy">
+                                                                        </span>
+                                                                    </a>
+                                                                </div>
+                                                            </div><!--End list-layout-inside--> 
+                                                        </div><!--End list-layout-item-->
 
-                                            </section> 
-            
-                                            <section class="grid-item grid-item-small filter_branding filter_featured filter_illustration filter_works filter_post-format-gallery" data-postid="170">
+                                                        <div class="list-layout-col2-item list-layout-item" style="">
+                                                            <div class="list-layout-inside">
+                                                                <div class="single-image mouse-over" data-lightbox="true">
+                                                                    <a title="" class="lightbox-item" href="img\Testimonial3.png" data-size="1394x132">
+                                                                        <span class="ux-lazyload-wrap" style=" padding-top: 70%;">
+                                                                            <img alt="Testimonials" title="Testimonials" src="img\Testimonial3.png" width="500" height="100" class="list-layout-img gallery-images-img ux-lazyload-img lazy">
+                                                                        </span>
+                                                                    </a>
+                                                                </div>
+                                                            </div><!--End list-layout-inside--> 
+                                                        </div><!--End list-layout-item-->
+                                                    </div><!--End list-layout-col-->
 
-                                                <div class="grid-item-inside" >
-                                                    <div class="grid-item-con">
-                                                        <a href="doc\Keeping Alive Societies' Hope (KASH) Newsletter.pdf" target="_blank" title="Keeping Alive Societies' Hope (KASH) Newsletter" class="grid-item-mask-link grid-item-open-url"></a>
-                                                
-                                                        <div class="grid-item-con-text">
-                                                            <h2 class="grid-item-tit"><a href="doc\Keeping Alive Societies' Hope (KASH) Newsletter.pdf" target="_blank" title="Keeping Alive Societies' Hope (KASH) Newsletter" class="grid-item-tit-a">Keeping Alive Societies' Hope (KASH) Newsletter</a></h2>
-                                                        </div>
-                                                    </div>
-                    
-                                                    <div class="brick-content ux-lazyload-wrap" style=" padding-top: 75.384615384615%;">
-                                                        <div class="ux-lazyload-bgimg ux-background-img" data-bg="https://cynthiaasumpta.vercel.app/img/Annex13.png"></div>
-                                                    </div>
-                                
-                                                </div><!--End inside-->
+                                                </div><!--End list-layout-->
+                
+                                            </div><!--End single-gallery-wrap-inn-->
 
-                                            </section> 
-            
-                                        </div><!--End masonry-list-->
+                                        </div><!--End blog-unit-gallery-wrap-->
 
-                                    </div><!-- End container-masonry -->
+
+                                        
+
+                                    </article>
 
                                 </div><!-- End #content_wrap-->
 
