@@ -1,0 +1,10 @@
+{
+    "rewrites": [
+      { "source": "/progress-reports", "destination": "/progress-reports.html" },
+      { "source": "/stories-of-change", "destination": "/stories-of-change.html" },
+      { "source": "/photos", "destination": "/photos.html" },
+      { "source": "/newsletters", "destination": "/newsletters.html" },
+      { "source": "/appraisals", "destination": "/appraisals.html" }
+    ]
+  }
+  
